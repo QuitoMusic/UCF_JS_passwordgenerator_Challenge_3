@@ -26,7 +26,7 @@ https://quitomusic.github.io/UCF_JS_passwordgenerator_Challenge_3/
 
 Website Screenshot:
 
-![Password generator Webpage Screenshot](./Assets/images/Screenshot%202023-05-03%20at%208.32.52%20AM.png)
+![Password generator Webpage Screenshot](./Assets/images/PasswordGenerator.png)
 
 ## Credits
 
